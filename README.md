@@ -3,7 +3,11 @@ Análise de Dados – Partidas da Copa do Mundo
 Autores - Grupo: 
 Denise Maria de Assis Araújo  - git: denisea7@gmail.com
 Flávio Garcia Torres - git: flavio1401@gmail.com
+<<<<<<< HEAD
 Itamar - git: itamarvmblack@gmail.com
+=======
+Itamar - git: itamarvmback@gmail.com
+>>>>>>> a885a52 (Atualização: funções padronizadas para todas as análises do projeto)
 Sérgio Domingos - git: domin.sergio@gmail.com
 
 Curso: CAIXAVERSO - FC | Analista Dados - I | #1629
@@ -24,7 +28,7 @@ Explorar o dataset e extrair informações relevantes através de:
 - Identificação de valores nulos
 - Limpeza e organização das informações
 - Criação de perguntas sobre o dataset
-- respostas utilizando operações do Pandas
+- Respostas utilizando operações do Pandas
 
 Dataset
 
