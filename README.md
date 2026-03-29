@@ -2,16 +2,15 @@ Análise de Dados – Partidas da Copa do Mundo
 
 Autores - Grupo: 
 Denise Maria de Assis Araújo  - git: denisea7@gmail.com
-Flávio Garcia Torres - git: 
-Itamar - git: 
+Flávio Garcia Torres - git: flavio1401@gmail.com
+Itamar - git: itamarvmblack@gmail.com
 Sérgio Domingos - git: domin.sergio@gmail.com
 
 Curso: CAIXAVERSO - FC | Analista Dados - I | #1629
 
 Módulo: Técnicas de Programação (PY) Professor: Rogério Mainardes
 
-Projeto: Análise de Dados – Partidas da Copa do MundoGRUPO: 
-git add .
+Projeto: Análise de Dados – Partidas da Copa do Mundo
 
 Este projeto tem como objetivo analisar um conjunto de dados de partidas da Copa do Mundo utilizando Python e a biblioteca Pandas.
 
