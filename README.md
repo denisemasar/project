@@ -3,12 +3,8 @@ Análise de Dados – Partidas da Copa do Mundo
 Autores - Grupo: 
 Denise Maria de Assis Araújo  - git: denisea7@gmail.com
 Flávio Garcia Torres - git: flavio1401@gmail.com
-<<<<<<< HEAD
 Itamar - git: itamarvmblack@gmail.com
-=======
-Itamar - git: itamarvmback@gmail.com
->>>>>>> a885a52 (Atualização: funções padronizadas para todas as análises do projeto)
-Sérgio Domingos - git: domin.sergio@gmail.com
+Sérgio Pereira Domingos - git: domin.sergio@gmail.com
 
 Curso: CAIXAVERSO - FC | Analista Dados - I | #1629
 
@@ -34,12 +30,24 @@ Dataset
 
 O dataset utilizado contém informações sobre partidas da Copa do Mundo, incluindo:
 
-- Times participantes
-- Número de gols
-- Posse de bola
-- Número de chutes
-- Estádio da partida
-- Cidade do jogo
+- Seleções participantes
+- Placar da partida (Número de gols de cada Seleção)
+- Posse de bola em percentual
+- Número de assistências
+- Número de gols de dentro da área e de gols de fora da área
+- Número de chutes em direção ao gol e de chutes para fora
+- Número de chutes de dentro da área e de chutes de fora da área
+- Número de faltas cometidas
+- Número de cartões amarelos e de cartões vermelhos
+- Número de impedimentos
+- Número total de passes e a quantidade de passes certos
+- Número total de cruzamentos e a quantidade de cruzamentos certos
+- Número de escanteios
+- Número de cobranças de faltas
+- Número de cobranças de pênaltis
+- Número de defesas (gols salvos)
+- Número de gols contra
+
 
 Base de dados utilizada no projeto:
 
