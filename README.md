@@ -2,8 +2,7 @@ Análise de Dados – Partidas da Copa do Mundo
 
 Autores - Grupo: 
 Denise Maria de Assis Araújo  - git: denisea7@gmail.com
-Flávio Garcia Torres - git: flavio1401@gmail.com
-Itamar - git: itamarvmblack@gmail.com
+Itamar Vieira Maciel - git: itamarvmblack@gmail.com
 Sérgio Pereira Domingos - git: domin.sergio@gmail.com
 
 Curso: CAIXAVERSO - FC | Analista Dados - I | #1629
@@ -47,7 +46,6 @@ O dataset utilizado contém informações sobre partidas da Copa do Mundo, inclu
 - Número de cobranças de pênaltis
 - Número de defesas (gols salvos)
 - Número de gols contra
-
 
 Base de dados utilizada no projeto:
 
